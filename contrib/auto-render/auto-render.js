@@ -2,7 +2,7 @@
 /* global katex */
 
  /* KWANG: katex for npm */
-import katex  form  "../../katex";
+import katex  from  "../../katex";
 
 import splitAtDelimiters from "./splitAtDelimiters";
 
