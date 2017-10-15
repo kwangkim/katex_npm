@@ -1,6 +1,9 @@
 /* eslint no-console:0 */
 /* global katex */
 
+ /* KWANG: katex for npm */
+import katex  form  "../../katex";
+
 import splitAtDelimiters from "./splitAtDelimiters";
 
 const splitWithDelimiters = function(text, delimiters) {
